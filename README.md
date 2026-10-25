@@ -690,8 +690,8 @@ docs/design/    # design notes
 
 ## License
 
-Licensed under the **Apache License, Version 2.0**; see [`LICENSE`](https://github.com/searchextract/form-extract/blob/master/LICENSE) and
-[`NOTICE`](https://github.com/searchextract/form-extract/blob/master/NOTICE). Copyright 2026 Ivan Ortega.
+Licensed under the **Apache License, Version 2.0**; see [`LICENSE`](https://github.com/pedanticpangolin/form-extract/blob/master/LICENSE) and
+[`NOTICE`](https://github.com/pedanticpangolin/form-extract/blob/master/NOTICE). Copyright 2026 Ivan Ortega.
 
 Note that the PDF ingester depends on **PyMuPDF**, which is licensed under the GNU AGPL-3.0
 (or a commercial license from Artifex). It is installed separately and not bundled, but check its
