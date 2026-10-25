@@ -12,7 +12,7 @@ optional `[pdf]` extra, not installed by default; `NOTICE` and the README say so
 ## One-time setup
 
 1. Accounts on pypi.org and test.pypi.org with 2FA.
-2. On each site add a *pending publisher* for `form-extract`: owner `iortega10`, repository
+2. On each site add a *pending publisher* for `form-extract`: owner `searchextract`, repository
    `form-extract`, workflow `release.yml`, environment `pypi` (PyPI) or `testpypi` (TestPyPI).
 3. In the GitHub repository create the environments `pypi` and `testpypi`.
 4. Make the repository public when ready (the project links point at it).
