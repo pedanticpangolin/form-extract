@@ -23,10 +23,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/searchextract/form-extract"
-Source = "https://github.com/searchextract/form-extract"
-Issues = "https://github.com/searchextract/form-extract/issues"
-Changelog = "https://github.com/searchextract/form-extract/blob/master/CHANGELOG.md"
+Homepage = "https://github.com/pedanticpangolin/form-extract"
+Source = "https://github.com/pedanticpangolin/form-extract"
+Issues = "https://github.com/pedanticpangolin/form-extract/issues"
+Changelog = "https://github.com/pedanticpangolin/form-extract/blob/master/CHANGELOG.md"
 
 [project.optional-dependencies]
 pdf = ["pymupdf>=1.24"]
